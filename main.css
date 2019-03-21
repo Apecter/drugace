@@ -1,0 +1,197 @@
+body
+{
+	padding:0;
+	margin:0;
+	background-image: linear-gradient(to right, #3392A6, #59A69E);
+    width: 100%;
+    font-family: arial;
+}	
+
+header
+{
+ background-color:#4072A6;
+ height: 50px;
+ width: 100%;
+ top:0;
+ position:absolute;
+ padding-left:0px;
+line-height: 45px;
+    
+}
+.naglowek{
+margin: 0;
+padding: 0;
+text-align: center;
+bottom: 5px;
+    font-family: Arial;
+}
+footer{
+	width:100%;
+	
+	background-color:#4072A6;
+	height:50px;
+	position:absolute;
+	padding-left:0px;
+	color:white;
+	line-height: 45px;
+	text-align:right;
+    
+
+	
+}
+
+.tlo{
+	
+	 background-image:url("2.jpg");
+	 height:250px;
+    background-size: cover;
+	
+	
+}
+
+nav{
+  
+ background-color:#4072A6;
+ height: 50px;
+ width: 94%;
+ top:0;
+ position:relative;
+ padding-left:0px;
+ text-align: center;
+    margin-left: 3%;
+      margin-top: 5px;
+    margin-bottom: 0px;
+    
+    border-top-right-radius:8px;
+border-top-left-radius:8px;
+border-bottom-left-radius:8px;
+border-bottom-right-radius:8px;
+	
+}
+
+.przycisk{
+	padding-left:12%;
+	padding-right:12%;
+    
+	text-decoration:none;
+	color:white;
+	font-size:25px;
+	position:relative;
+	margin: 0 auto;
+
+	top:12px;
+	background-color:#404EA6;
+	
+	
+	
+	
+}
+
+.przycisk:hover{
+    color: #000;
+    background-color: #4698E8;
+    
+    
+    
+}
+
+
+
+
+.kontyner{
+    
+	position:relative;
+	margin-top:0px;
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-bottom:10px;
+	background-color:white;
+	width:94%;
+	height:500px;
+	
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+
+}
+
+.article .tytul
+{
+	margin-left: 45%;
+
+}
+tytul{
+	font-size:25px;
+
+	
+}
+.text{
+	margin-left:10px;
+	margin-right:10px;
+	
+	
+}
+
+/*Zarządzanie strukturą artykułu itp*/
+.artykul{
+    
+    background-color: pink;
+    width:98%;
+    
+    height:32%;
+    position:relative;
+    
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    top:5px;
+    
+border-top-right-radius:8px;
+border-top-left-radius:8px;
+border-bottom-left-radius:8px;
+border-bottom-right-radius:8px;
+        
+}
+.artykul:hover{
+    background-color: aqua;
+    
+    
+}
+.zdjecieart{
+background-size: cover;
+margin-top:5px;
+margin-left: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+position:absolute;
+width: 25%;
+height: auto;
+    max-width: 98%;
+    max-height: 92%;
+    border-top-right-radius:8px;
+border-top-left-radius:8px;
+border-bottom-left-radius:8px;
+border-bottom-right-radius:8px;
+    
+    
+}
+.tytulart{
+
+color: #000;
+margin-left: 28%; 
+text-decoration: underline; 
+}
+
+.pisanieartykulu{
+    color: #000;
+
+margin-left: 28%; 
+    
+
+}
+
+.link{
+    text-decoration: none;
+}
